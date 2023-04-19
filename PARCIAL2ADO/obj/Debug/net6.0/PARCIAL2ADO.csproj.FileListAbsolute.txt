@@ -1,0 +1,15 @@
+C:\Users\MINEDUCYT\Documents\GitHub\Parcial2Adonay\PARCIAL2ADO\bin\Debug\net6.0\PARCIAL2ADO.exe
+C:\Users\MINEDUCYT\Documents\GitHub\Parcial2Adonay\PARCIAL2ADO\bin\Debug\net6.0\PARCIAL2ADO.deps.json
+C:\Users\MINEDUCYT\Documents\GitHub\Parcial2Adonay\PARCIAL2ADO\bin\Debug\net6.0\PARCIAL2ADO.runtimeconfig.json
+C:\Users\MINEDUCYT\Documents\GitHub\Parcial2Adonay\PARCIAL2ADO\bin\Debug\net6.0\PARCIAL2ADO.dll
+C:\Users\MINEDUCYT\Documents\GitHub\Parcial2Adonay\PARCIAL2ADO\bin\Debug\net6.0\PARCIAL2ADO.pdb
+C:\Users\MINEDUCYT\Documents\GitHub\Parcial2Adonay\PARCIAL2ADO\obj\Debug\net6.0\PARCIAL2ADO.csproj.AssemblyReference.cache
+C:\Users\MINEDUCYT\Documents\GitHub\Parcial2Adonay\PARCIAL2ADO\obj\Debug\net6.0\PARCIAL2ADO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MINEDUCYT\Documents\GitHub\Parcial2Adonay\PARCIAL2ADO\obj\Debug\net6.0\PARCIAL2ADO.AssemblyInfoInputs.cache
+C:\Users\MINEDUCYT\Documents\GitHub\Parcial2Adonay\PARCIAL2ADO\obj\Debug\net6.0\PARCIAL2ADO.AssemblyInfo.cs
+C:\Users\MINEDUCYT\Documents\GitHub\Parcial2Adonay\PARCIAL2ADO\obj\Debug\net6.0\PARCIAL2ADO.csproj.CoreCompileInputs.cache
+C:\Users\MINEDUCYT\Documents\GitHub\Parcial2Adonay\PARCIAL2ADO\obj\Debug\net6.0\PARCIAL2ADO.dll
+C:\Users\MINEDUCYT\Documents\GitHub\Parcial2Adonay\PARCIAL2ADO\obj\Debug\net6.0\refint\PARCIAL2ADO.dll
+C:\Users\MINEDUCYT\Documents\GitHub\Parcial2Adonay\PARCIAL2ADO\obj\Debug\net6.0\PARCIAL2ADO.pdb
+C:\Users\MINEDUCYT\Documents\GitHub\Parcial2Adonay\PARCIAL2ADO\obj\Debug\net6.0\PARCIAL2ADO.genruntimeconfig.cache
+C:\Users\MINEDUCYT\Documents\GitHub\Parcial2Adonay\PARCIAL2ADO\obj\Debug\net6.0\ref\PARCIAL2ADO.dll
